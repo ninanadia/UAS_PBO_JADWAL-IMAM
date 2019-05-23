@@ -1,7 +1,7 @@
 # UAS PBO Jadwal Solat
 Percobaan penerapan konsep OOP dan implementasi JDBC antara Java dan Mysql
 
-### Pemrograman Berbasis Objek – B
+### Pemrograman Berbasis Objek â€“ B
 Nama Anggota Kelompok 5 :
 -1177050010	Aisyah Amini Nur
 -1177050078	Nida Luthfi Awwaliyah
@@ -56,9 +56,9 @@ _Anda dapat membuild project dengan cara mengklik _ __Clean and Build Project__ 
 		.../Jadwal_Imam/dist/Jadwal_Imam.jar/
 	```
 ## keterangan menggunakan aplikasi 
-- lebih detail nya anda dapat lihat pada [User Manual] ()
+- lebih detail nya anda dapat lihat pada [User Manual] (
 
-##TL;DR
+##TLDR;
 Clone project ini, buat database baru bernama **jadwal**, import file **jadwal.sql** yang terdapat pada folder /sql/, lalu Run **Data.java** melalui netBeans
 
 _Aplikasi ini dibuat pada netBeans versi 8.2_
