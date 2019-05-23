@@ -21,11 +21,9 @@ Nama Anggota Kelompok 5 :
     
 	- Aplikasi git
 		1. Buka git, kemudian masukan command
-         
-					 ```
-         
+         			```
 	  		 git clone https://github.com/ninanadia/Jadwal_Imam.git
-					```
+				```
 		2. Buka aplikasi Netbeans, lalu pilih **Open Project**
      
 		3. Pilihlah folder dimana tempat clone berada	
@@ -56,7 +54,7 @@ _Anda dapat membuild project dengan cara mengklik _ __Clean and Build Project__ 
 		.../Jadwal_Imam/dist/Jadwal_Imam.jar/
 	```
 ## keterangan menggunakan aplikasi 
-- lebih detail nya anda dapat lihat pada [User Manual] (
+- lebih detail nya anda dapat lihat pada [User Manual] (https://github.com/ninanadia/UAS_PBO_JADWAL-IMAM/blob/master/User%20Manual.pdf)
 
 ##TLDR;
 Clone project ini, buat database baru bernama **jadwal**, import file **jadwal.sql** yang terdapat pada folder /sql/, lalu Run **Data.java** melalui netBeans
